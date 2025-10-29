@@ -98,6 +98,10 @@ Berdasarkan XGBRegressor dan Lasso:
 ### Insight Bisnis:
 Pelanggan dengan transaksi yang sering & bernilai tinggi memiliki LTV lebih besar. Peningkatan kepuasan & loyalitas juga berkontribusi positif meskipun dalam skala lebih kecil.
 
+> Model memprediksi bahwa pelanggan dengan nilai transaksi tinggi dan frekuensi transaksi besar memiliki LTV tinggi.
+Namun, analisis perilaku menunjukkan bahwa frekuensi terbaru (recency) juga memengaruhi nilai LTV aktual — pelanggan lama yang tidak aktif meskipun dulu banyak bertransaksi mengalami penurunan nilai.
+Oleh karena itu, strategi retensi sebaiknya fokus pada meningkatkan frekuensi dan nilai transaksi terbaru, bukan hanya jumlah total transaksi historis.
+
 ---
 
 ## Tools & Teknologi
