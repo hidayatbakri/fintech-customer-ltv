@@ -4,7 +4,7 @@
 
 Proyek ini bertujuan untuk memprediksi Customer Lifetime Value (LTV) pengguna dompet digital seperti PayTM atau Khalti. Dengan menganalisis perilaku transaksi dan karakteristik pelanggan, model ini membantu perusahaan mengidentifikasi pelanggan bernilai tinggi dan meningkatkan strategi retensi.
 
-Dataset terdiri dari ~7.000 sampel dengan 20 fitur, mencakup:
+Dataset terdiri dari 7.000 sampel dengan 20 fitur, mencakup:
 
 - Demografi
 - Riwayat transaksi
