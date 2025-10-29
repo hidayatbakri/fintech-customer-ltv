@@ -51,14 +51,14 @@ Dataset terdiri dari **7.000 sampel dengan 20 fitur**, mencakup:
 ### [1] Data Analyst — Exploratory Analysis (Tableau)
 - Menganalisis distribusi transaksi & pengeluaran pelanggan  
 - Membuat segmentasi berdasarkan usia, lokasi, & pendapatan  
-- Mendeteksi outlier & pola korelasi antar fitur numerik  
 - Membuat dashboard interaktif di Tableau:
   - **Customer Segmentation Dashboard**
   - **Transaction Overview Dashboard**
   - **Retention & Churn Insight Dashboard**
 
 ### [2] Data Scientist — Predictive Modeling (Python)
-- Melakukan preprocessing: encoding, normalisasi, dan feature engineering  
+- Melakukan preprocessing: encoding, normalisasi, dan feature engineering
+- Mendeteksi outlier & pola korelasi antar fitur numerik  
 - Membangun dua model utama:
   - **XGBRegressor**
   - **Lasso Regression**
